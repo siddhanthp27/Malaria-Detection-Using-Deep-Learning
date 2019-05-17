@@ -21,7 +21,7 @@ pip3 install scikit-image
 
 ## Steps to Run the Code:
 
-1. To normalize the images using the various staing normalization methods, use the script 
+1. To normalize the images using the various stain normalization methods, use the script 
 'stain_normalizer.py'. By varying the name of the folder location where all the images are stored (modify line 15 in
 code to set folder location where all images are present), one can obtain the stain normalized images for three techniques - 
 Macenko, Reinhard, Vahadane
